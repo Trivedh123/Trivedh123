@@ -10,7 +10,6 @@
 <a href="https://linkedin.com/in/trivedh sri satya sai kalluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trivedh sri satya sai kalluri" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rag_23981a05e9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rag_23981a05e9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/trivedh1392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trivedh1392" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/520007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="520007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
